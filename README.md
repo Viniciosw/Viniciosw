@@ -17,7 +17,7 @@
 
 <div  align = "center"> 
   <div style = "display: inline_block"> <br>
-    <img align = "left" height = "350" width = 350 alt = "coding-time" src = "imgs/inteligencia-art.gif">
+    <img align = "left" height = "250" alt = "coding-time" src = "imgs/inteligencia-art.gif">
     <h1 align = "center">Linguagens/Frameworks</h1>
     <img align = "center" height = "40" width = "40" alt = "python-icon" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
