@@ -20,6 +20,7 @@
     <img align = "left" height = "250" alt = "coding-time" src = "imgs/inteligencia-art.gif">
     <h1 align = "center">Linguagens/Frameworks</h1>
     <img align = "center" height = "40" width = "40" alt = "python-icon" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align = "center" height = "40" width = "80" alt = "spark-icon" src="imgs/pyspark-icon.jpg" />
     <img align = "center" height = "40" width = "40" alt = "java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align = "center" height = "40" width = "40" alt = "javascript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "html5-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
